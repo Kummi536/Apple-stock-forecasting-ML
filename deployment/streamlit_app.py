@@ -293,3 +293,4 @@ with tab2:
                 st.download_button("💾 Download CSV", csv, "aapl_forecast.csv", "text/csv")
 
 st.info("✅ **COMPLETE WORKING VERSION!** Handles all CSV formats, no permission issues, robust error handling.")
+
